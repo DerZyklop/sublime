@@ -43,6 +43,7 @@
 
 	// Das Problem mit den Tabs, Spaces und Line-Endings: http://www.der-zyklop.de/pxwrk/tabs-vs-spaces/
 	"default_line_ending": "unix",
+	"detect_indentation": true,
 	"translate_tabs_to_spaces": true,
 	"tab_size": 4,
 	"draw_white_space": "all",
