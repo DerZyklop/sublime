@@ -1,13 +1,14 @@
 {
-	// Optisch
-	//"theme": "Soda Light.sublime-theme",
-	//"soda_classic_tabs": true,
-	"highlight_modified_tabs": true,
-	"draw_minimap_border": false,
 	"bold_folder_labels": true,
-	"highlight_line": true,
+	"default_line_ending": "unix",
+	"detect_indentation": true,
+	"draw_minimap_border": false,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Droid Sans Mono",
 	"font_size": 14.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"LaTeX",
@@ -25,7 +26,6 @@
 		"Groovy",
 		"SCSS",
 		"Lisp",
-		"ActionScript",
 		"R",
 		"Clojure",
 		"RestructuredText",
@@ -33,21 +33,18 @@
 		"Graphviz",
 		"YAML",
 		"Haskell",
+		"ActionScript",
 		"Go"
 	],
-	"rulers": [80],
-	"scroll_past_end": true,
-	"show_full_path": true,
 	"match_brackets": true,
 	"match_brackets_content": true,
-
-	// Das Problem mit den Tabs, Spaces und Line-Endings: http://www.der-zyklop.de/pxwrk/tabs-vs-spaces/
-	"default_line_ending": "unix",
-	"detect_indentation": true,
-	"translate_tabs_to_spaces": true,
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"show_full_path": true,
 	"tab_size": 4,
-	"draw_white_space": "all",
-	"trim_trailing_white_space_on_save": true,
-	// Manchmal machen Server probleme wenn da keine newline ist
-	"ensure_newline_at_eof_on_save": true
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
