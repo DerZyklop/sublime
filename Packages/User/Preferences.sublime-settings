@@ -1,12 +1,23 @@
 {
 	"bold_folder_labels": true,
+	"create_window_at_startup": false,
 	"default_line_ending": "unix",
 	"detect_indentation": true,
+	"detect_slow_plugins": false,
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
 	"draw_minimap_border": false,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Droid Sans Mono",
-	"font_size": 14.0,
+	"font_size": 18.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -34,7 +45,8 @@
 		"YAML",
 		"Haskell",
 		"ActionScript",
-		"Go"
+		"Go",
+		"Modific"
 	],
 	"match_brackets": true,
 	"match_brackets_content": true,
@@ -44,7 +56,7 @@
 	],
 	"scroll_past_end": true,
 	"show_full_path": true,
-	"tab_size": 4,
+	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
