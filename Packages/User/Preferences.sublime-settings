@@ -64,6 +64,6 @@
 		".settings",
 		".svn",
 		"node_modules",
-		".DS_Store"
+		".git"
 	]
 }
