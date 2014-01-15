@@ -1,0 +1,838 @@
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 551, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 1158, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 1341, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 1742, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 1913, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 1607, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3130, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 2229, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 2293, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 2417, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 2687, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 2147, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3390, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3502, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3197, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3599, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3789, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3929, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4185, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4297, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4311, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4325, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4349, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4363, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4337, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4510, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4377, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4389, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4401, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4413, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4449, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4522, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4534, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4546, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4560, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4574, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4588, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 602, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 714, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 1094, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4613, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 1387, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 1792, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4645, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4629, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4693, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4661, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4677, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 2491, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3083, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4709, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3665, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 502, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 486, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4725, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3843, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4741, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4758, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:24
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4245, in is_visible
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 551, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 773, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 1158, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 1341, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 1742, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 1913, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 1607, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3130, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 2229, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 2293, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 2417, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 2687, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 2147, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3390, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3502, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3197, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3599, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3789, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3929, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4185, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4297, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4311, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4325, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4349, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4363, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4337, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4510, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4377, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4389, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4401, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4413, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4449, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4522, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4534, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4546, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4560, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4574, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4588, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 602, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 714, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 1094, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4613, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 1387, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 1792, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4645, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4629, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4693, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4661, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4677, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 2491, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3083, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4709, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3665, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 519, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 502, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 486, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4725, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 3843, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4741, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4758, in is_visible
+  File "./sublimesvn/commands.py", line 116, in has_root
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
+2014-01-14 15:04:55
+Traceback (most recent call last):
+  File "./sublime_plugin.py", line 282, in is_visible_
+  File "./sublimesvn/commands.py", line 4245, in is_visible
+  File "./sublimesvn/proc.py", line 62, in get_wc_root
+PluginLoadingError: SVN still loading
