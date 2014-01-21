@@ -1,8 +1,16 @@
+// All comments with URL's are related to the setting beneath.
 {
-	"bold_folder_labels": true,
-	"create_window_at_startup": false,
+	// http://www.der-zyklop.de/pxwrk/tabs-vs-spaces/
 	"default_line_ending": "unix",
 	"detect_indentation": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+
+	// http://robots.thoughtbot.com/no-newline-at-end-of-file
+	"ensure_newline_at_eof_on_save": true,
+
+	"bold_folder_labels": true,
+	"create_window_at_startup": false,
 	"detect_slow_plugins": false,
 	"distraction_free":
 	{
@@ -14,8 +22,6 @@
 		"status_bar_visible": false
 	},
 	"draw_minimap_border": false,
-	"draw_white_space": "all",
-	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Droid Sans Mono",
 	"font_size": 17.0,
 	"highlight_line": true,
@@ -56,8 +62,7 @@
 	],
 	"scroll_past_end": true,
 	"show_full_path": true,
-	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
+	"draw_white_space": "all",
 	"trim_trailing_white_space_on_save": true,
 	"folder_exclude_patterns": [
 		".sass-cache",
