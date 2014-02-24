@@ -1,74 +1,32 @@
-// All comments with URL's are related to the setting beneath.
 {
-	// http://www.der-zyklop.de/pxwrk/tabs-vs-spaces/
+	"bold_folder_labels": true,
 	"default_line_ending": "unix",
 	"detect_indentation": true,
-	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
-
-	// http://robots.thoughtbot.com/no-newline-at-end-of-file
+	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
-
-	"bold_folder_labels": true,
-	"create_window_at_startup": false,
-	"detect_slow_plugins": false,
-	"distraction_free":
-	{
-		"menu_visible": true,
-		"show_minimap": true,
-		"show_open_files": false,
-		"show_tabs": false,
-		"side_bar_visible": false,
-		"status_bar_visible": false
-	},
-	"draw_minimap_border": false,
+	"folder_exclude_patterns":
+	[
+		".sass-cache",
+		".settings",
+		".svn",
+		"node_modules",
+		".git"
+	],
 	"font_face": "Droid Sans Mono",
 	"font_size": 17.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"LaTeX",
-		"Scala",
 		"Vintage",
-		"Rails",
-		"Perl",
-		"Textile",
-		"Lua",
-		"Matlab",
-		"Erlang",
-		"Batch File",
-		"ASP",
-		"TCL",
-		"Groovy",
-		"SCSS",
-		"Lisp",
-		"Modific",
-		"R",
-		"Clojure",
-		"RestructuredText",
-		"OCaml",
-		"Graphviz",
-		"YAML",
-		"Haskell",
-		"ActionScript",
-		"Go"
+		"Sass"
 	],
-	"match_brackets": true,
-	"match_brackets_content": true,
 	"rulers":
 	[
 		80
 	],
-	"scroll_past_end": true,
 	"show_full_path": true,
-	"draw_white_space": "all",
-	"trim_trailing_white_space_on_save": true,
-	"folder_exclude_patterns": [
-		".sass-cache",
-		".settings",
-		".svn",
-		"node_modules",
-		".git"
-	]
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }

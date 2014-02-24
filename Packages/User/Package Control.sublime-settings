@@ -1,20 +1,9 @@
 {
 	"installed_packages":
 	[
-		"CoffeeScript",
-		"DataConverter",
-		"Emmet",
-		"File Navigator",
-		"Git",
-		"Grunt",
-		"LoremIpsum",
-		"Modific",
-		"Package Control",
+		"Better CoffeeScript",
 		"Sass",
-		"SFTP",
 		"SideBarEnhancements",
-		"StringEncode",
-		"SVN",
-		"TernJS"
+		"SVN"
 	]
 }
