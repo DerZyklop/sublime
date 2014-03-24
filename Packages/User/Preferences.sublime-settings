@@ -12,14 +12,13 @@
 		"node_modules",
 		".git"
 	],
-	"font_face": "Droid Sans Mono",
+	"font_face": "Fira Mono",
 	"font_size": 17.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Sass"
+		"Vintage"
 	],
 	"rulers":
 	[
