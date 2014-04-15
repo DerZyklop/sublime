@@ -2,8 +2,6 @@
 
 My packages, settings, themes and stuff for my favorit editor. It's located in my everywhare-synced cloud-service, so that my settings are the same on all my machines.
 
-There is some documentation in the Package/User/Preferences.sublime-settings file.
-
 ## Install
 
 ```
