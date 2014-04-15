@@ -5,8 +5,5 @@ My packages, settings, themes and stuff for my favorit editor. It's located in m
 ## Install
 
 ```
-ln -s ~/path_to_cloud/Cache ~/Library/Application\ Support/Sublime\ Text\ 3/
-ln -s ~/path_to_cloud/Index ~/Library/Application\ Support/Sublime\ Text\ 3/
-ln -s ~/path_to_cloud/Installed\ Packages ~/Library/Application\ Support/Sublime\ Text\ 3/
-ln -s ~/path_to_cloud/Packages ~/Library/Application\ Support/Sublime\ Text\ 3/
+sh init
 ```
