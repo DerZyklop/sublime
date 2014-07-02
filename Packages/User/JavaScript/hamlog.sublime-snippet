@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+console.error('☰☰☰☰☰☰☰☰☰☰');
+console.error('${1:foo}');
+console.error('☰☰☰☰☰☰☰☰☰☰');
+]]></content>
+  <tabTrigger>hamlog</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
