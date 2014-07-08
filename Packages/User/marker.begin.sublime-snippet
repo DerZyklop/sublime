@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/* ${1:Section-Name} [BEGIN] */
+
+${2}
+
+/* ${1:Section-Name} [END] */
+]]></content>
+  <tabTrigger>marker.begin</tabTrigger>
+  <!-- <description>marker.begin</description> -->
+  <scope>source.sass, source.scss, source.css</scope>
+</snippet>
