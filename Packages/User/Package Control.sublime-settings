@@ -1,9 +1,11 @@
 {
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"Better CoffeeScript",
 		"Emmet",
 		"Expand Tabs on Save",
+		"PHP Completions Kit",
 		"Sass",
 		"SideBarEnhancements",
 		"SVN"
