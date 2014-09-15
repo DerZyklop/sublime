@@ -1,6 +1,12 @@
 {
-	"extensions":
-	[
-		".zshrc"
-	]
+  "extensions":
+  [
+    ".zshrc",
+    ".bash_prompt",
+    ".completions",
+    ".exports",
+    ".functions",
+    ".path",
+    ".aliases"
+  ]
 }
