@@ -4,6 +4,7 @@
     ".zshrc",
     ".bash_prompt",
     ".completions",
+    ".extra",
     ".exports",
     ".functions",
     ".path",
