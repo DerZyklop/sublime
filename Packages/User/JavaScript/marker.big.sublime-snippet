@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[// ☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰
+// ${1:Section-Name} [BEGIN]
+
+${2}
+
+// ${1:Section-Name} [END]
+// ☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰☰
+]]></content>
+  <tabTrigger>marker.big</tabTrigger>
+  <!-- <description>marker.big</description> -->
+  <scope>source.js, source.coffee</scope>
+</snippet>
