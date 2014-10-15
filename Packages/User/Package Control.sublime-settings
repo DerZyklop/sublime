@@ -8,6 +8,10 @@
 		"PHP Completions Kit",
 		"Sass",
 		"SideBarEnhancements",
+		"StringEncode",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"SVN"
 	]
 }
