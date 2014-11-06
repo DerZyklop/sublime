@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/FireCode (SL).tmTheme",
+	"color_scheme": "Packages/User/Charming (SL).tmTheme",
 	"convert_tabspaces_on_save": true,
 	"default_line_ending": "unix",
 	"detect_indentation": true,
@@ -20,7 +20,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"rulers":
 	[
