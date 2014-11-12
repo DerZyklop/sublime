@@ -4,8 +4,10 @@
 	"convert_tabspaces_on_save": true,
 	"default_line_ending": "unix",
 	"detect_indentation": true,
+	"draw_centered": true,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
+	"find_selected_text": true,
 	"folder_exclude_patterns":
 	[
 		".sass-cache",
@@ -16,14 +18,16 @@
 	],
 	"font_face": "Fira Mono",
 	"font_size": 17.0,
+	"hide_minimap": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"hide_minimap": true,
 	"ignored_packages":
 	[
 		"Vintage",
 		"Markdown"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"rulers":
 	[
 		80
@@ -32,5 +36,7 @@
 	"show_tab_close_buttons": false,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"wrap_width": 80
 }
