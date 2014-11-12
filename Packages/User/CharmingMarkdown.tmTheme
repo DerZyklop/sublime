@@ -10,11 +10,11 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#182020</string>
+                <string>#F7F5F0</string>
                 <key>caret</key>
-                <string>#00bdff</string>
+                <string>#009CC5</string>
                 <key>foreground</key>
-                <string>#666666</string>
+                <string>#656565</string>
                 <key>invisibles</key>
                 <string>#E0E0E0</string>
                 <key>lineHighlight</key>
@@ -227,7 +227,7 @@
                 <key>fontStyle</key>
                 <string>bold</string>
                 <key>foreground</key>
-                <string>#666666</string>
+                <string>#009CC5</string>
             </dict>
         </dict>
         <dict>
@@ -450,7 +450,7 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#FFFFFF</string>
+                <string>#ffffff</string>
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
@@ -549,7 +549,7 @@
                 <key>fontStyle</key>
                 <string>italic</string>
                 <key>foreground</key>
-                <string>#777777</string>
+                <string>#009CC5</string>
             </dict>
         </dict>
         <dict>
@@ -573,7 +573,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#AAAAAA</string>
+                <string>#B3B2AF</string>
             </dict>
         </dict>
         <dict>
@@ -585,17 +585,6 @@
             <dict>
                 <key>foreground</key>
                 <string>#666666</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>Markdown: Paragraph</string>
-            <key>scope</key>
-            <string>meta.paragraph.markdown</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#666666aa</string>
             </dict>
         </dict>
         <dict>
@@ -659,6 +648,8 @@
             <dict>
                 <key>fontStyle</key>
                 <string>bold</string>
+                <key>foreground</key>
+                <string>#ff0000</string>
             </dict>
         </dict>
         <dict>
@@ -671,7 +662,7 @@
                 <key>fontStyle</key>
                 <string>bold</string>
                 <key>foreground</key>
-                <string>#777777</string>
+                <string>#ff0000</string>
             </dict>
         </dict>
         <dict>
@@ -684,7 +675,7 @@
                 <key>fontStyle</key>
                 <string>bold</string>
                 <key>foreground</key>
-                <string>#777777</string>
+                <string>#C43280</string>
             </dict>
         </dict>
         <dict>
@@ -756,6 +747,17 @@
                 <string>#DDFFDD</string>
                 <key>foreground</key>
                 <string>#434343</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Markdown: Paragraph</string>
+            <key>scope</key>
+            <string>meta.paragraph.markdown</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#656565</string>
             </dict>
         </dict>
         <dict>
