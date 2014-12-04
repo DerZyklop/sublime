@@ -3,6 +3,7 @@
 	[
 		"All Autocomplete",
 		"Better CoffeeScript",
+		"Console API Snippets (JavaScript)",
 		"Emmet",
 		"Expand Tabs on Save",
 		"FullScreenStatus",
@@ -10,6 +11,7 @@
 		"PHP Completions Kit",
 		"Sass",
 		"SideBarEnhancements",
+		"STProjectMaker",
 		"StringEncode",
 		"SublimeCodeIntel",
 		"SublimeLinter",
