@@ -1,8 +1,0 @@
-<snippet>
-    <tabTrigger>jsdec</tabTrigger>
-    <scope>text.html, source.js</scope>
-    <description>jQuery.sap.declare ...</description>
-	<content><![CDATA[
-jQuery.sap.declare("${1:identifier}");
-]]></content>
-</snippet>
