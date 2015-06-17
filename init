@@ -21,3 +21,4 @@ tput sgr0
 
 /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl
 
+git checkout -- .
