@@ -12,7 +12,10 @@
 
 import json
 import hashlib
+import codecs
+import sublime
 
+from functools import lru_cache
 from os import path, access, X_OK
 from . import linter, persist, util
 
@@ -48,24 +51,29 @@ class NodeLinter(linter.Linter):
         super(NodeLinter, self).__init__(view, syntax)
 
         self.manifest_path = self.get_manifest_path()
-        self.read_manifest(path.getmtime(self.manifest_path))
+
+        if self.manifest_path:
+            self.read_manifest(path.getmtime(self.manifest_path))
 
     def lint(self, hit_time):
         """Check NodeLinter options then run lint."""
 
         view_settings = self.get_view_settings(inline=True)
 
-        is_dep = self.is_dependency()
+        if self.manifest_path:
+            is_dep = self.is_dependency()
 
-        enable_if_dependency = view_settings.get('enable_if_dependency', False)
-        disable_if_not_dependency = \
-            view_settings.get('disable_if_not_dependency', False)
+            enable_if_dependency = \
+                view_settings.get('enable_if_dependency', False)
 
-        if enable_if_dependency and is_dep:
-            self.disabled = False
+            disable_if_not_dependency = \
+                view_settings.get('disable_if_not_dependency', False)
 
-        if disable_if_not_dependency and not is_dep:
-            self.disabled = True
+            if enable_if_dependency and is_dep:
+                self.disabled = False
+
+            if disable_if_not_dependency and not is_dep:
+                self.disabled = True
 
         super(NodeLinter, self).lint(hit_time)
 
@@ -78,7 +86,7 @@ class NodeLinter(linter.Linter):
 
         # also return true if the name is the same so linters can lint their
         # own code (e.g. eslint can lint the eslint project)
-        is_dep = True if self.npm_name == pkg['name'] else False
+        is_dep = 'name' in pkg and self.npm_name == pkg['name']
 
         if not is_dep:
             is_dep = True if (
@@ -119,7 +127,6 @@ class NodeLinter(linter.Linter):
 
         node_cmd_path = local_cmd if local_cmd else global_cmd
         self.executable_path = node_cmd_path
-
         return False, node_cmd_path
 
     def get_manifest_path(self):
@@ -154,7 +161,7 @@ class NodeLinter(linter.Linter):
 
         parent = path.normpath(path.join(cwd, '../'))
 
-        if parent == '/':
+        if parent == '/' or parent == cwd:
             return None
 
         return self.rev_parse_manifest_path(parent)
@@ -178,6 +185,9 @@ class NodeLinter(linter.Linter):
         node_modules_bin = path.normpath(path.join(cwd, 'node_modules/.bin/'))
 
         binary = path.join(node_modules_bin, cmd)
+
+        if sublime.platform() == 'windows' and path.splitext(binary)[1] != '.cmd':
+            binary += '.cmd'
 
         return binary if binary and access(binary, X_OK) else None
 
@@ -214,10 +224,33 @@ class NodeLinter(linter.Linter):
 
         self.cached_manifest_mtime = current_manifest_mtime
         self.cached_manifest_hash = self.hash_manifest()
-        self.cached_manifest = json.load(open(self.manifest_path))
+        self.cached_manifest = json.load(codecs.open(self.manifest_path, 'r', 'utf-8'))
 
     def hash_manifest(self):
         """Calculate the hash of the manifest file."""
 
-        f = open(self.manifest_path, 'r')
+        f = codecs.open(self.manifest_path, 'r', 'utf-8')
         return hashlib.sha1(f.read().encode('utf-8')).hexdigest()
+
+    @classmethod
+    @lru_cache(maxsize=None)
+    def can_lint(cls, syntax):
+        """
+        Determine if the linter can handle the provided syntax.
+
+        This is an optimistic determination based on the linter's syntax alone.
+        """
+        can = False
+        syntax = syntax.lower()
+
+        if cls.syntax:
+            if isinstance(cls.syntax, (tuple, list)):
+                can = syntax in cls.syntax
+            elif cls.syntax == '*':
+                can = True
+            elif isinstance(cls.syntax, str):
+                can = syntax == cls.syntax
+            else:
+                can = cls.syntax.match(syntax) is not None
+
+        return can

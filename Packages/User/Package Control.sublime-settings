@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"All Autocomplete",
@@ -8,6 +11,7 @@
 		"Expand Tabs on Save",
 		"FullScreenStatus",
 		"MarkdownEditing",
+		"Package Control",
 		"PHP Completions Kit",
 		"Sass",
 		"SideBarEnhancements",
