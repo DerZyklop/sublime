@@ -1,7 +1,6 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/Charming (SL).tmTheme",
-	"convert_tabspaces_on_save": true,
 	"default_line_ending": "unix",
 	"detect_indentation": true,
 	"draw_centered": true,
@@ -14,6 +13,8 @@
 		".settings",
 		".svn",
 		"node_modules",
+		"bower_components",
+		"resources",
 		".git"
 	],
 	"font_face": "Fira Mono",
@@ -23,8 +24,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,

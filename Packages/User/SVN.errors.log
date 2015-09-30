@@ -972,3 +972,331 @@ Traceback (most recent call last):
   File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 4262, in is_visible
   File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
 SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 10:33:04
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 20, in run
+  File "/Users/neumann/Library/Application Support/Sublime Text 3/Packages/SVN/SVN.py", line 402, in run_with_except
+    SVN.init(svn_binary_path=settings_dict['svn_binary_path'])
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 840, in init
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 876, in get_version
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 723, in read
+SVN.sublimesvn.errors.ProcessError: 
+
+Agreeing to the Xcode/iOS license requires admin privileges, please re-run as root via sudo.
+
+
+
+2015-09-18 13:33:43
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 20, in run
+  File "/Users/neumann/Library/Application Support/Sublime Text 3/Packages/SVN/SVN.py", line 402, in run_with_except
+    SVN.init(svn_binary_path=settings_dict['svn_binary_path'])
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 840, in init
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 876, in get_version
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 723, in read
+SVN.sublimesvn.errors.ProcessError: 
+
+Agreeing to the Xcode/iOS license requires admin privileges, please re-run as root via sudo.
+
+
+
+2015-09-18 18:05:58
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 173, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:05:58
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 4262, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:05:58
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 2490, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:05:58
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 4202, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:05:58
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 3806, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:05:58
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 1915, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:05:58
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 1160, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:05:58
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 191, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:20:21
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 173, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:20:22
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 4262, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:20:22
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 2490, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:20:22
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 4202, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:20:22
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 3806, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:20:22
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 1915, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:20:22
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 1160, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:20:22
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 191, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:24:36
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 173, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:24:36
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 4262, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:24:36
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 2490, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:24:36
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 4202, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:24:36
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 3806, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:24:36
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 1915, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:24:36
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 1160, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:24:36
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 191, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:29:05
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 173, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:29:05
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 4262, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:29:05
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 2490, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:29:05
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 4202, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:29:05
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 3806, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:29:05
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 1915, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:29:05
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 1160, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-18 18:29:05
+Traceback (most recent call last):
+  File "/opt/homebrew-cask/Caskroom/sublime-text3/Build 3083/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 456, in is_visible_
+    ret = self.is_visible(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 191, in is_visible
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 116, in has_root
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 62, in get_wc_root
+SVN.sublimesvn.errors.PluginLoadingError: SVN still loading
+2015-09-23 12:52:17
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 20, in run
+  File "/Users/neumann/Library/Application Support/Sublime Text 3/Packages/SVN/SVN.py", line 402, in run_with_except
+    SVN.init(svn_binary_path=settings_dict['svn_binary_path'])
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 840, in init
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 876, in get_version
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 723, in read
+SVN.sublimesvn.errors.ProcessError: 
+
+Agreeing to the Xcode/iOS license requires admin privileges, please re-run as root via sudo.
+
+
+
+2015-09-28 18:41:54
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 20, in run
+  File "/Users/neumann/Library/Application Support/Sublime Text 3/Packages/SVN/SVN.py", line 402, in run_with_except
+    SVN.init(svn_binary_path=settings_dict['svn_binary_path'])
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 840, in init
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 876, in get_version
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 723, in read
+SVN.sublimesvn.errors.ProcessError: 
+
+Agreeing to the Xcode/iOS license requires admin privileges, please re-run as root via sudo.
+
+
+
+2015-09-28 18:44:42
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 20, in run
+  File "/Users/neumann/Library/Application Support/Sublime Text 3/Packages/SVN/SVN.py", line 402, in run_with_except
+    SVN.init(svn_binary_path=settings_dict['svn_binary_path'])
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 840, in init
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 876, in get_version
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 723, in read
+SVN.sublimesvn.errors.ProcessError: 
+
+Agreeing to the Xcode/iOS license requires admin privileges, please re-run as root via sudo.
+
+
+
+2015-09-29 10:21:40
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 20, in run
+  File "/Users/neumann/Library/Application Support/Sublime Text 3/Packages/SVN/SVN.py", line 402, in run_with_except
+    SVN.init(svn_binary_path=settings_dict['svn_binary_path'])
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 840, in init
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 876, in get_version
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 723, in read
+SVN.sublimesvn.errors.ProcessError: 
+
+Agreeing to the Xcode/iOS license requires admin privileges, please re-run as root via sudo.
+
+
+

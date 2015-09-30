@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -13,13 +14,13 @@
 		"MarkdownEditing",
 		"Package Control",
 		"PHP Completions Kit",
+		"Pretty JSON",
 		"Sass",
 		"SideBarEnhancements",
 		"STProjectMaker",
 		"StringEncode",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-jshint",
-		"SVN"
+		"SublimeLinter-jshint"
 	]
 }

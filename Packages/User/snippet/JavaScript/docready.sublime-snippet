@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+\$(document).ready(function(){
+  ${1:// script}
+});
+]]></content>
+  <tabTrigger>docready</tabTrigger>
+  <description>$(document).ready(...</description>
+  <scope>source.js, source.coffee</scope>
+</snippet>

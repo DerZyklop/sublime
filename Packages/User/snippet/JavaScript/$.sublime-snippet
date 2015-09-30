@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+\$('${1:this}')${2:.on('${3:click}', function(){
+  ${4:// script}
+\});}
+]]></content>
+  <tabTrigger>$</tabTrigger>
+  <description>$(document).ready(...</description>
+  <scope>source.js, source.coffee</scope>
+</snippet>

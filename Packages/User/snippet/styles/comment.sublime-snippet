@@ -6,7 +6,7 @@ ${2}
 
 /* ${1:Section-Name} [END] */
 ]]></content>
-  <tabTrigger>marker.begin</tabTrigger>
+  <tabTrigger>commment</tabTrigger>
   <!-- <description>marker.begin</description> -->
   <scope>source.sass, source.scss, source.css</scope>
 </snippet>
