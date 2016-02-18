@@ -647,7 +647,7 @@ def create_environment():
     paths = persist.settings.get('paths', {})
 
     if sublime.platform() in paths:
-        paths = convert_type(paths[sublime.platform()], [])
+        paths = [os.path.abspath(os.path.expanduser(path)) for path in convert_type(paths[sublime.platform()], [])]
     else:
         paths = []
 
@@ -1381,7 +1381,6 @@ def center_region_in_view(region, view):
 
 
 class cd:
-
     """Context manager for changing the current working directory."""
 
     def __init__(self, newPath):

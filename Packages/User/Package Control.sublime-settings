@@ -21,6 +21,6 @@
 		"StringEncode",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-jshint"
+		"SublimeLinter-contrib-eslint"
 	]
 }

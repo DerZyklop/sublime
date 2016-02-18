@@ -1,0 +1,20 @@
+{
+  "name": "sublime",
+  "version": "1.0.0",
+  "description": "My packages, settings, themes and stuff for my favorit editor. It's located in my everywhare-synced cloud-service, so that my settings are the same on all my machines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerZyklop/sublime.git"
+  },
+  "keywords": [],
+  "author": "Nils Neumann <neumann@placeworkers.com> (http://der-zyklop.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DerZyklop/sublime/issues"
+  },
+  "homepage": "https://github.com/DerZyklop/sublime#readme"
+}
