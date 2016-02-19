@@ -14,7 +14,6 @@
 		".svn",
 		"node_modules",
 		"bower_components",
-		"resources",
 		".git"
 	],
 	"font_face": "Fira Mono",
