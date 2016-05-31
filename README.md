@@ -6,5 +6,4 @@ My packages, settings, themes and stuff for my favorit editor. It's located in m
 
 ```
 git clone https://github.com/DerZyklop/sublime.git ~/.sublime; cd ~/.sublime; . init.sh
-sh init
 ```
